@@ -1,5 +1,5 @@
 {
-    "name": "drewm/mailchimp-api",
+    "name": "cresjie/mailchimp-api",
     "description": "Super-simple, minimum abstraction MailChimp API v3 wrapper",
     "license": "MIT",
     "require": {
